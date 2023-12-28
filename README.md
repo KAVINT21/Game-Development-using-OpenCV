@@ -16,17 +16,7 @@ can be handled by hands with use of web camera in the machine.
 
 # Abstract
 
-Computer vision is widely used in gaming industries for enhancing
-the
-experience while gaming. Machine vision in gaming refers to the use of
-computer vision techniques to enhance the gaming experience. This can
-include using cameras to track player movements, recognizing and
-responding to objects in the game environment, and providing more
-realistic graphics. Examples of machine vision in gaming include motion-
-controlled gaming, augmented reality games, and facial recognition for
-player login. Technology has the potential to revolutionize the way we
-interact with games and can lead to more immersive and
-interactive experiences.
+
 Machine vision technology can also be used in virtual reality (VR) and
 augmented reality (AR) gaming. VR headsets use cameras and sensors to
 track the player&#39;s head movements and adjust the game&#39;s perspective
@@ -36,3 +26,53 @@ Overall, machine vision technology can greatly enhance the gaming
 experience by making it more immersive and interactive. It can also open
 up new possibilities for game design, allowing developers to create more
 realistic and engaging games.
+
+# Output:
+
+# SPACE WAR:
+
+Controls:
+
+The Five Fingers Are represented as Array.
+Five Fingers – [Thumb,Index Finger,Middle Finger,Ring Finger,Little Finger]
+0 -- THE FINGER IS NOT VISIBLE.
+1 –  THE FINGER IS VISIBLE.
+LEFT – [1,1,1,1,1]
+RIGHT – [0,0,0,0,0]
+Shoot – [0,1,0,0,0]
+
+
+
+![image](https://github.com/KAVINT21/Game-Development-using-OpenCV/assets/95117554/e16b7415-ca40-4d86-9c17-32900ad59134)
+
+
+# Bike Racing
+
+Controls:
+
+The Five Fingers Are represented as Array.
+Five Fingers – [Thumb,Index Finger,Middle Finger,Ring Finger,Little Finger]
+0 -- THE FINGER IS NOT VISIBLE.
+1 –  THE FINGER IS VISIBLE.
+LEFT – [0,1,1,0,0]
+RIGHT – [0,1,1,1,0]
+
+
+![image](https://github.com/KAVINT21/Game-Development-using-OpenCV/assets/95117554/985715a8-4e74-4fe0-b069-34745f72c5cf)
+
+# PING-PONG GAME:
+
+CONTROLS:
+By the motion of the hands the steel on the both sides can be controlled.
+
+
+![image](https://github.com/KAVINT21/Game-Development-using-OpenCV/assets/95117554/b2645562-587e-492f-a0e4-95b5443ba810)
+
+
+# Balloon Pop Game:
+
+CONTROLS:
+By the motion of the hands the steel on the both sides can be controlled.
+
+
+![image](https://github.com/KAVINT21/Game-Development-using-OpenCV/assets/95117554/a9e8aba6-282b-4d88-9722-4ec6acd612d2)
