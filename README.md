@@ -29,17 +29,17 @@ realistic and engaging games.
 
 # Output:
 
-# SPACE WAR:
-
+# SPACE WAR
 Controls:
 
-The Five Fingers Are represented as Array.
-Five Fingers – [Thumb,Index Finger,Middle Finger,Ring Finger,Little Finger]
-0 -- THE FINGER IS NOT VISIBLE.
-1 –  THE FINGER IS VISIBLE.
-LEFT – [1,1,1,1,1]
-RIGHT – [0,0,0,0,0]
-Shoot – [0,1,0,0,0]
+The Five Fingers are represented as an array.
+Five Fingers – [Thumb, Index Finger, Middle Finger, Ring Finger, Little Finger]
+0: The finger is not visible.
+1: The finger is visible.
+LEFT: [1, 1, 1, 1, 1]
+RIGHT: [0, 0, 0, 0, 0]
+Shoot: [0, 1, 0, 0, 0]
+
 
 
 
@@ -50,12 +50,12 @@ Shoot – [0,1,0,0,0]
 
 Controls:
 
-The Five Fingers Are represented as Array.
-Five Fingers – [Thumb,Index Finger,Middle Finger,Ring Finger,Little Finger]
-0 -- THE FINGER IS NOT VISIBLE.
-1 –  THE FINGER IS VISIBLE.
-LEFT – [0,1,1,0,0]
-RIGHT – [0,1,1,1,0]
+ - The Five Fingers Are represented as Array.
+ - Five Fingers – [Thumb,Index Finger,Middle Finger,Ring Finger,Little Finger]
+ - 0 -- THE FINGER IS NOT VISIBLE.
+ - 1 –  THE FINGER IS VISIBLE.
+ - LEFT – [0,1,1,0,0]
+ - RIGHT – [0,1,1,1,0]
 
 
 ![image](https://github.com/KAVINT21/Game-Development-using-OpenCV/assets/95117554/985715a8-4e74-4fe0-b069-34745f72c5cf)
